@@ -105,7 +105,9 @@ header{
 }
 @media screen and (max-width: 400px){
    .nav-bar{
-       margin-top:180px;
+      position:absolute ;
+       bottom:10px;
+       left:20px;
    }
 }
 /* 
