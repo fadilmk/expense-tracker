@@ -103,6 +103,11 @@ header{
     text-align: center;
     margin-top: 10px;
 }
+@media screen and (max-width: 400px){
+   .nav-bar{
+       margin-top:50px;
+   }
+}
 /* 
 F5F7F8
 F4CE14
